@@ -5,5 +5,7 @@ class Main:
         self.cartes = []
 
     def tire(self, carte):
-        """Ajoute une carte à la main du joueur."""
         self.cartes.append(carte)
+
+    def __repr__(self):
+        return f"Main({self.cartes})"
