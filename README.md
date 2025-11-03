@@ -53,3 +53,13 @@ Assurez-vous d’avoir **Python 3** installé, puis exécutez :
 
 ```bash
 python blackjack.py
+```
+## 2. Contrôles dans le jeu
+
+o → tirer une carte
+
+n → rester
+
+d → double down (si disponible)
+
+Ctrl + C → quitter le jeu à tout moment
