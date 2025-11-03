@@ -52,7 +52,7 @@ Cette version inclut également l’option **Double Down** (doubler la mise et t
 Assurez-vous d’avoir **Python 3** installé, puis exécutez :
 
 ```bash
-python blackjack.py
+python main.py
 ```
 ## 2. Contrôles dans le jeu
 
