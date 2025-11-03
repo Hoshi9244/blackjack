@@ -54,6 +54,10 @@ Assurez-vous d’avoir **Python 3** installé, puis exécutez :
 ```bash
 python main.py
 ```
+Pour javascript :
+```bash
+node blackjack.js
+```
 ## 2. Contrôles dans le jeu
 
 o → tirer une carte
